@@ -1,2 +1,3 @@
 # BeMyGuide
-Our project aims to develop a face detection and recognition and a speech recognition system to help the visually impaired and deaf people in their daily social interactions.
+Our project aims to develop an object detection and an image recognition  system to help the visually impaired in their daily social interactions.
+
